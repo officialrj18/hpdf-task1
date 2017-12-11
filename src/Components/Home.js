@@ -21,7 +21,7 @@ export default class Home extends Component {
                                 <Text>
                                 <Text>Smarter Every Day</Text>
                                 <Text style={{color: '#a9a9a9'}}>  @smarter  30m <Icon name="arrow-dropdown" style={{color: '#a9a9a9'}}/></Text></Text>
-                                <Text note>Fact for the day :)</Text>
+                                <Text note> Genuine Thinker </Text>
                                 </Body>
                             </Left>
 
