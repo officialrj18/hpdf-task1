@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+To run this project (Twitter Demo App)
+
+this  project require node files to run ,so need to install node first.
+for inatalling node..& running the app
+
+1.go to project (cd urprojectAddress)
+2.install node modules (npm install)
+3.start node server (start)
+
+
+
+=======================================================================
+
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
