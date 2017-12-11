@@ -1,6 +1,6 @@
-To run this project (Twitter Demo App)
+ HPDF Project (Twitter Demo App)
 
-this  project require node files to run ,so need to install node first.
+This  project requires node files to run ,so need to install node first.
 for inatalling node..& running the app
 
 1.go to project (cd urprojectAddress)
