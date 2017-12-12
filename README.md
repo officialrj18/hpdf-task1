@@ -1,11 +1,18 @@
  HPDF Project (Twitter Demo App)
+ 
+(SOME FILES ARE IGNORED BY GIT..SO I AM SHARING WITH YOU A lINK OF REMAINING FILE 
+https://drive.google.com/folderview?id=166pwZOh4OCTCa73WCU9XNUFW9i9amJEE
+download these files and and put them into the the same folder where you have
+keep the this git repository.
 
-This  project requires node files to run ,so need to install node first.
-for inatalling node..& running the app
+This  project requires node files to run ,so you need to install node first.
+for inatalling node..& running the app follw the below steps
 
-1.go to project (cd urprojectAddress)
+1.go to project (cd urprojectpath)
 2.install node modules (npm install)
-3.start node server (start)
+3.start node server (npm start)
+
+
 
 
 
