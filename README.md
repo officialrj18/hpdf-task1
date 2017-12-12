@@ -5,7 +5,7 @@
 (https://drive.google.com/folderview?id=166pwZOh4OCTCa73WCU9XNUFW9i9amJEE)
 
 download these files and put them into the same folder where you have
-keep this git repository.
+kept this git repository.
 
 
 ## Installation
