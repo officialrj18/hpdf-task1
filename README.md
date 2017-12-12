@@ -2,7 +2,7 @@
  
 *SOME FILES WERE IGNORED BY GIT..SO I AM SHARING WITH YOU A LINK OF ALL THOSE REMAINING FILES*
 
-https://drive.google.com/folderview?id=166pwZOh4OCTCa73WCU9XNUFW9i9amJEE
+(https://drive.google.com/folderview?id=166pwZOh4OCTCa73WCU9XNUFW9i9amJEE)
 
 download these files and put them into the same folder where you have
 keep this git repository.
@@ -13,7 +13,7 @@ keep this git repository.
 This  project requires node files to run ,so you need to install node.js first.
 if you don't have it already, download the installer at nodejs.org. Choose the appropriate package for your platform and follow the instructions to install.
 
-for installing node..& running the app follow the below steps.
+for installing node & running the app follow the below steps. **:)**
 
 *1.go to project (`cd urprojectpath`)*
 
@@ -22,20 +22,23 @@ for installing node..& running the app follow the below steps.
 *3.start node server (`npm start`)*
 
 
-It might take a few minutes to download dependencies. ####You should see a QR code like this after it's done.
+It might take a few minutes to download dependencies. **You should see a QR code like this after it's done.**
 
-Now you can install the *Expo Client* on iOS or Android and scan the QR code to view it.
-If you see this, success! You're ready to use my app.:)
-
-
+Now you can install the **Expo Client** on iOS or Android and scan the QR code to view it.
+If you see this, success! You're ready to use my app **:)**
 
 
-
+# THANKS FOR READING :)
 
 
 
 
-# Learn More About React-Native
+
+
+
+
+
+# If You Want to Learn More About React-Native 
 
 Below you'll find more information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
