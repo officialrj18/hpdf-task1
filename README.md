@@ -1,10 +1,5 @@
 # HPDF Project (Twitter Demo App)
  
-**SOME FILES WERE IGNORED BY GIT..SO I AM SHARING WITH YOU A LINK OF ALL THOSE REMAINING FILES**
-
-(https://drive.google.com/folderview?id=166pwZOh4OCTCa73WCU9XNUFW9i9amJEE)
-
-download these files and put them into the same folder where you have kept this(hpdf-task1) git repository.
 
 
 ## Installation
