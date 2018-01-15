@@ -1,0 +1,23 @@
+
+{
+  "expo": {
+    "name": "Twitter(HPDF)",
+    "slug": "hpdf-task1",
+    "icon": "./img/icon.png",
+     
+    "loading": {
+      "icon": "./img/splash.png",
+      "backgroundColor":"#1da1f3"
+      
+    },
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "com.example.helloHasura"
+    },
+    "android": {
+      "package": "com.example.helloHasura"
+    }
+  }
+}
